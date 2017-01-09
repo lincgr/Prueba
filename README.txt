@@ -7,7 +7,7 @@ CONTENTS OF THIS FILE
  * Installation profiles
  * Appearance
  * Developing for Drupal
- * Jollyness
+ * Template Jollyness
 
 ABOUT DRUPAL
 ------------
