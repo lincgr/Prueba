@@ -1,0 +1,4 @@
+Host github.com
+  HostName github.com
+  lincgr
+  IdentityFile ~/.ssh/id_rsa
